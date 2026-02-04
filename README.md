@@ -34,3 +34,5 @@ Databáze,"Návrh schématu, SQL dotazy (SELECT, INSERT, DELETE)."
 Logika vazeb,"Propojení SQL dotazů do Python funkcí, ošetření chyb."
 GUI (Tkinter),"Návrh rozvržení, Treeview, stylování, zachytávání vstupů."
 Tester / Dokumentace,"Kontrola chyb, psaní návodu do README, příprava slidů na prezentaci."
+
+Rozdelte prace jak chcete

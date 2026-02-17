@@ -67,6 +67,7 @@ Smazání akce:
 Vyberte akci v tabulce
 
 Klikněte na „Smazat vybranou“
+
 ---
 ### Účastníci
 

@@ -1,38 +1,35 @@
-# SpravaSkolnichAkci
-Aplikace pro evidenci akcí a účastníků.
+# Správa školních akcí
 
-Databázové tabulky
-akce (id, název, datum, místo)
-ucastnici (id, jméno, třída)
-registrace (id, akce_id, ucastnik_id)
-Povinné funkce
-vytvoření akce
-registrace účastníků
-zobrazení seznamu účastníků
-mazání registrace
-filtr podle třídy
-Prezentace 
-vytvořit dokumentaci a odprezentovat projekt
-Role
-databáze
-logika vazeb
-GUI
-tester / dokumentace
-PODMÍNKY
-✔ Python
-✔ SQLite
-✔ Tkinter
-✔ Treeview
-✔ CRUD operace
-✔ validace vstupů
-✔ práce ve skupině GIt a GitHub 
-✔ README dokumentace
-✔ prezentace / obhajoba (Dostali jsme takovy ukol z čeho radče začit?)
+Jednoduchá desktopová aplikace v Pythonu pro evidenci školních akcí, účastníků a jejich registrací.
 
-Role,Hlavní úkol
-Databáze,"Návrh schématu, SQL dotazy (SELECT, INSERT, DELETE)."
-Logika vazeb,"Propojení SQL dotazů do Python funkcí, ošetření chyb."
-GUI (Tkinter),"Návrh rozvržení, Treeview, stylování, zachytávání vstupů."
-Tester / Dokumentace,"Kontrola chyb, psaní návodu do README, příprava slidů na prezentaci."
+## Funkce
 
-Rozdelte prace jak chcete
+- Vytváření a mazání školních akcí
+- Přidávání a mazání účastníků
+- Filtrování účastníků podle třídy
+- Registrace účastníků na akce
+- Automatické mazání souvisejících registrací
+- Databáze SQLite (vytvoří se automaticky při prvním spuštění)
+
+---
+
+## Požadavky
+
+- Python 3.x
+- Není potřeba instalovat žádné externí knihovny (využívá pouze standardní knihovny – `tkinter`, `sqlite3`)
+
+---
+
+## Instalace
+
+### Možnost 1 – Stažení jako ZIP
+
+1. Klikněte na tlačítko **Code**
+2. Zvolte **Download ZIP**
+3. Rozbalte soubor do vybrané složky
+
+### Možnost 2 – Git clone
+
+```bash
+git clone https://github.com/uzivatel/nazev-repozitare.git
+cd nazev-repozitare

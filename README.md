@@ -31,5 +31,5 @@ Jednoduchá desktopová aplikace v Pythonu pro evidenci školních akcí, účas
 ### Možnost 2 – Git clone
 
 ```bash
-git clone https://github.com/uzivatel/nazev-repozitare.git
-cd nazev-repozitare
+git clone https://github.com/vladyslavsolovei/SpravaSkolnichAkci.git
+cd SpravaSkolnichAkci

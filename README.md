@@ -33,22 +33,22 @@ Jednoduchá desktopová aplikace v Pythonu pro evidenci školních akcí, účas
 ```bash
 git clone https://github.com/vladyslavsolovei/SpravaSkolnichAkci.git
 cd SpravaSkolnichAkci
-
+```
 ### Spuštění aplikace
 
 Ve složce projektu spusťte:
-
+```
 python main_gui.py
-
+```
 
 Po prvním spuštění se automaticky vytvoří soubor:
-
+```
 database.db
-
+```
 
 Tento soubor obsahuje databázi aplikace.
 
-📚 Používání aplikace
+### Používání aplikace
 
 Aplikace obsahuje tři záložky:
 
@@ -108,7 +108,7 @@ Vyberte registraci
 
 Klikněte na „Smazat registraci“
 
-🗄️ Struktura databáze
+### Struktura databáze
 
 Aplikace používá tři tabulky:
 
@@ -140,7 +140,7 @@ ucastnik_id
 
 Při smazání akce nebo účastníka se automaticky smažou související registrace.
 
-🔄 Reset databáze
+### Reset databáze
 
 Pokud chcete vymazat všechna data:
 

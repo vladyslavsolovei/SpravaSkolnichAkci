@@ -51,8 +51,8 @@ Tento soubor obsahuje databázi aplikace.
 ### Používání aplikace
 
 Aplikace obsahuje tři záložky:
-
-### Akce
+---
+## Akce
 
 Slouží k vytváření a mazání školních akcí.
 
@@ -67,6 +67,7 @@ Smazání akce:
 Vyberte akci v tabulce
 
 Klikněte na „Smazat vybranou“
+---
 
 ### Účastníci
 

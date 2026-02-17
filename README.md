@@ -52,6 +52,7 @@ Tento soubor obsahuje databázi aplikace.
 
 Aplikace obsahuje tři záložky:
 ---
+
 ## Akce
 
 Slouží k vytváření a mazání školních akcí.

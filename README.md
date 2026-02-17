@@ -91,6 +91,7 @@ Smazání účastníka:
 Vyberte účastníka
 
 Klikněte na „Smazat vybraného“
+---
 
 ### Registrace
 
@@ -110,6 +111,7 @@ Vyberte registraci
 
 Klikněte na „Smazat registraci“
 
+---
 ### Struktura databáze
 
 Aplikace používá tři tabulky:
@@ -142,6 +144,7 @@ ucastnik_id
 
 Při smazání akce nebo účastníka se automaticky smažou související registrace.
 
+---
 ### Reset databáze
 
 Pokud chcete vymazat všechna data:

@@ -52,7 +52,7 @@ Tento soubor obsahuje databázi aplikace.
 
 Aplikace obsahuje tři záložky:
 
-1️⃣ Akce
+### Akce
 
 Slouží k vytváření a mazání školních akcí.
 
@@ -68,7 +68,7 @@ Vyberte akci v tabulce
 
 Klikněte na „Smazat vybranou“
 
-2️⃣ Účastníci
+### Účastníci
 
 Slouží k evidenci studentů.
 
@@ -90,7 +90,7 @@ Vyberte účastníka
 
 Klikněte na „Smazat vybraného“
 
-3️⃣ Registrace
+### Registrace
 
 Slouží k přihlašování účastníků na akce.
 

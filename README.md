@@ -71,7 +71,6 @@ Klikněte na „Smazat vybranou“
 
 ---
 
----
 ### Účastníci
 
 Slouží k evidenci studentů.

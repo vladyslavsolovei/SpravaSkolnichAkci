@@ -152,7 +152,10 @@ Pokud chcete vymazat všechna data:
 
 Zavřete aplikaci
 
-Smažte soubor database.db
+Smažte soubor 
+```
+database.db
+```
 
 Spusťte aplikaci znovu
 

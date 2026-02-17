@@ -70,6 +70,8 @@ Vyberte akci v tabulce
 Klikněte na „Smazat vybranou“
 
 ---
+
+---
 ### Účastníci
 
 Slouží k evidenci studentů.
